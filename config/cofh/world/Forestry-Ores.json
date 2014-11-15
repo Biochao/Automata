@@ -1,0 +1,23 @@
+{
+    "apatite": {
+        "template": "uniform",
+        "block": {
+            "name": "Forestry:resources",
+            "metadata": 0
+        },
+		"material": "minecraft:stone",
+        "clusterSize": 40,
+        "numClusters": 1,
+        "minHeight": 50,
+        "maxHeight": 128,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+			0,
+            1
+        ]
+    }
+}

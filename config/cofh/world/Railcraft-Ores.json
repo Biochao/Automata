@@ -1,0 +1,101 @@
+{
+    "poorIron": {
+        "template": "uniform",
+        "block": {
+            "name": "Railcraft:tile.railcraft.ore",
+            "metadata": 7
+        },
+		"material": "minecraft:stone",
+        "clusterSize": 8,
+        "numClusters": 20,
+        "minHeight": 5,
+        "maxHeight": 64,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [
+            0
+        ]
+    },
+
+    "poorGold": {
+        "template": "uniform",
+        "block": {
+            "name": "Railcraft:tile.railcraft.ore",
+            "metadata": 8
+        },
+		"material": "minecraft:stone",
+        "clusterSize": 8,
+        "numClusters": 2,
+        "minHeight": 6,
+        "maxHeight": 32,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [
+            0
+        ]
+    },
+    "poorCopper": {
+        "template": "uniform",
+        "block": {
+            "name": "Railcraft:tile.railcraft.ore",
+			"metadata": 9
+		},
+        "clusterSize": 8,
+        "numClusters": 10,
+        "minHeight": 40,
+        "maxHeight": 75,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [
+            "all"
+        ],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [
+            0
+        ]
+    },
+    "poorTin": {
+        "template": "uniform",
+        "block": {
+            "name": "Railcraft:tile.railcraft.ore",
+			"metadata": 10
+		},
+        "clusterSize": 8,
+        "numClusters": 10,
+        "minHeight": 20,
+        "maxHeight": 55,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [
+            "all"
+        ],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [
+            0
+        ]
+    },
+	"poorLead": {
+        "template": "uniform",
+        "block": {
+            "name": "Railcraft:tile.railcraft.ore",
+			"metadata": 11
+		},
+        "clusterSize": 8,
+        "numClusters": 10,
+        "minHeight": 5,
+        "maxHeight": 40,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [
+            "all"
+        ],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [
+            0
+        ]
+    }
+}

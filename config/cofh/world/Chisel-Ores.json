@@ -1,0 +1,39 @@
+{
+    "marble": {
+        "template": "uniform",
+        "block": "chisel:chisel.marble",
+		"material": "minecraft:stone",
+        "clusterSize": 50,
+        "numClusters": 5,
+        "minHeight": 0,
+        "maxHeight": 128,
+        "retrogen": "false",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1
+        ]
+    },
+    "limestone": {
+        "template": "uniform",
+        "block": [
+            {"name": "chisel:chisel.limestone", "metadata": 0, "weight": 90},
+            {"name": "harvestcraft:salt", "metadata": 0, "weight": 10}
+        ],
+		"material": "minecraft:stone",
+        "clusterSize": 40,
+        "numClusters": 5,
+        "minHeight": 0,
+        "maxHeight": 128,
+        "retrogen": "false",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1
+        ]
+    }
+}
