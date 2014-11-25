@@ -1,0 +1,266 @@
+{
+	"densecoal": {
+        "template": "uniform",
+        "block": {
+            "name": "denseores:block0",
+            "metadata": 6
+        },
+        "material": "minecraft:stone",
+        "clusterSize": 20,
+        "numClusters": 25,
+        "minHeight": 1,
+        "maxHeight": 255,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [
+            -100
+        ]
+    },
+    "denseiron": {
+        "template": "uniform",
+        "block": {
+            "name": "denseores:block0",
+            "metadata": 0
+        },
+		"material": "minecraft:stone",
+        "clusterSize": 10,
+        "numClusters": 25,
+        "minHeight": 1,
+        "maxHeight": 255,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [
+            -100
+        ]
+    },
+    "densegold": {
+        "template": "uniform",
+        "block": {
+            "name": "denseores:block0",
+            "metadata": 1
+        },
+		"material": "minecraft:stone",
+        "clusterSize": 10,
+        "numClusters": 5,
+        "minHeight": 1,
+        "maxHeight": 200,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [
+            -100
+        ]
+    },
+    "denseredstone": {
+        "template": "uniform",
+        "block": {
+            "name": "denseores:block0",
+            "metadata": 5
+        },
+		"material": "minecraft:stone",
+        "clusterSize": 10,
+        "numClusters": 10,
+        "minHeight": 1,
+        "maxHeight": 128,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [
+            -100
+        ]
+    },
+    "densediamond": {
+        "template": "uniform",
+        "block": {
+            "name": "denseores:block0",
+            "metadata": 3
+        },
+		"material": "minecraft:stone",
+        "clusterSize": 10,
+        "numClusters": 5,
+        "minHeight": 1,
+        "maxHeight": 128,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [
+            -100
+        ]
+    },
+    "denselapis": {
+        "template": "normal",
+        "block": {
+            "name": "denseores:block0",
+            "metadata": 2
+        },
+		"material": "minecraft:stone",
+        "clusterSize": 9,
+        "numClusters": 5,
+        "meanHeight": 100,
+        "maxVariance": 100,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [
+            -100
+        ]
+    },
+    "denseemerald": {
+        "template": "uniform",
+        "block": {
+            "name": "denseores:block0",
+            "metadata": 4
+        },
+		"material": "minecraft:stone",
+        "clusterSize": 3,
+        "numClusters": 15,
+        "minHeight": 1,
+        "maxHeight": 128,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [
+            -100
+        ]
+    },
+    "densecertusquartz": {
+        "template": "uniform",
+        "block": [
+            {
+                "name": "denseores:block3",
+                "metadata": 7,
+                "weight": 90
+            },
+            {
+                "name": "denseores:block3",
+                "metadata": 8,
+                "weight": 10
+            }
+        ],
+        "clusterSize": 14,
+        "numClusters": 6,
+        "minHeight": 1,
+        "maxHeight": 250,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [
+            -100
+        ]
+    },
+    "densecopper": {
+        "template": "uniform",
+        "block": {
+            "name": "denseores:block1",
+            "metadata": 0
+        },
+        "material": "minecraft:stone",
+        "clusterSize": 15,
+        "numClusters": 20,
+        "minHeight": 1,
+        "maxHeight": 250,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [
+            "all"
+        ],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [
+            -100
+        ]
+    },
+    "densetin": {
+        "template": "uniform",
+        "block": {
+            "name": "denseores:block1",
+            "metadata": 1
+        },
+        "material": "minecraft:stone",
+        "clusterSize": 15,
+        "numClusters": 20,
+        "minHeight": 1,
+        "maxHeight": 250,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [
+            "all"
+        ],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [
+            -100
+        ]
+    },
+    "densesilver": {
+        "template": "uniform",
+        "block": [
+            {"name": "denseores:block1", "metadata": 2, "weight":80},
+            {"name": "denseores:block1", "metadata": 3, "weight":20}
+        ],
+        "material": "minecraft:stone",
+        "clusterSize": 10,
+        "numClusters": 15,
+        "minHeight": 1,
+        "maxHeight": 200,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [
+            "all"
+        ],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [
+            -100
+        ]
+    },
+    "denselead": {
+        "template": "uniform",
+        "block": [
+            {"name": "denseores:block1", "metadata": 3, "weight": 90},
+            {"name": "denseores:block1", "metadata": 2, "weight": 10}
+        ],
+        "material": "minecraft:stone",
+        "clusterSize": 10,
+        "numClusters": 15,
+        "minHeight": 1,
+        "maxHeight": 200,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [
+            "all"
+        ],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [
+            -100
+        ]
+    },
+    "densenickel": {
+        "template": "uniform",
+        "block": {
+            "name": "denseores:block1",
+            "metadata": 4
+        },
+        "material": "minecraft:stone",
+        "clusterSize": 8,
+        "numClusters": 5,
+        "minHeight": 1,
+        "maxHeight": 128,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [
+            "all"
+        ],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [
+            -100
+        ]
+    }
+}

@@ -1,0 +1,181 @@
+{
+    "poorIron": {
+        "template": "uniform",
+        "block": {
+            "name": "Railcraft:tile.railcraft.ore",
+            "metadata": 7
+        },
+		"material": "minecraft:stone",
+        "clusterSize": 8,
+        "numClusters": 20,
+        "minHeight": 5,
+        "maxHeight": 64,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [
+            0
+        ]
+    },
+
+    "poorGold": {
+        "template": "uniform",
+        "block": {
+            "name": "Railcraft:tile.railcraft.ore",
+            "metadata": 8
+        },
+		"material": "minecraft:stone",
+        "clusterSize": 8,
+        "numClusters": 2,
+        "minHeight": 6,
+        "maxHeight": 32,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [
+            0
+        ]
+    },
+    "poorCopper": {
+        "template": "uniform",
+        "block": {
+            "name": "Railcraft:tile.railcraft.ore",
+			"metadata": 9
+		},
+        "clusterSize": 8,
+        "numClusters": 10,
+        "minHeight": 40,
+        "maxHeight": 75,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [
+            "all"
+        ],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [
+            0
+        ]
+    },
+    "poorTin": {
+        "template": "uniform",
+        "block": {
+            "name": "Railcraft:tile.railcraft.ore",
+			"metadata": 10
+		},
+        "clusterSize": 8,
+        "numClusters": 10,
+        "minHeight": 20,
+        "maxHeight": 55,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [
+            "all"
+        ],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [
+            0
+        ]
+    },
+	"poorLead": {
+        "template": "uniform",
+        "block": {
+            "name": "Railcraft:tile.railcraft.ore",
+			"metadata": 11
+		},
+        "clusterSize": 8,
+        "numClusters": 10,
+        "minHeight": 5,
+        "maxHeight": 40,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [
+            "all"
+        ],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [
+            0
+        ]
+    },
+    "poorDiamond": {
+        "template": "uniform",
+        "block": {
+            "name": "PoorOres:poor_diamond_ore",
+            "metadata": 0
+        },
+        "clusterSize": 2,
+        "numClusters": 1,
+        "minHeight": 1,
+        "maxHeight": 16,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [
+            "all"
+        ],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [
+            0
+        ]
+    },
+        "poorLapis": {
+        "template": "normal",
+        "block": {
+            "name": "PoorOres:poor_lapis_ore",
+            "metadata": 0
+        },
+        "clusterSize": 5,
+        "numClusters": 1,
+        "meanHeight": 16,
+        "maxVariance": 16,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [
+            "all"
+        ],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [
+            0
+        ]
+    },
+        "poorEmerald": {
+        "template": "uniform",
+        "block": {
+            "name": "PoorOres:poor_emerald_ore",
+            "metadata": 0
+        },
+        "clusterSize": 1,
+        "numClusters": 1,
+        "minHeight": 1,
+        "maxHeight": 35,
+        "retrogen": "true",
+        "biomeRestriction": "whitelist",
+        "biomes": [
+            "3"
+        ],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [
+            0
+        ]
+    },
+    "poorRedstone": {
+        "template": "uniform",
+        "block": {
+            "name": "PoorOres:poor_redstone_ore",
+            "metadata": 0
+        },
+        "clusterSize": 5,
+        "numClusters": 1,
+        "minHeight": 1,
+        "maxHeight": 16,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [
+            "all"
+        ],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [
+            0
+        ]
+    }
+}
