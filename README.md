@@ -9,4 +9,4 @@ Download the pack on the FTB Launcher using the pack code: automata
 
 
 CoFH ore gen has been configured to only allow coal and Railcraft poor ore to spawn in the overworld and normal ore generation in all other dimensions. Mystcraft ages will be given to the player by the ruler through quest rewards. Ages handed out will get progressively better throughout the quest lines. 
-Recipe changes have been made to integrate the mods. Item teleportation recipes will require AE Quantum Entangled Singularities. Since I am including Buildcraft 6.1 some recipes have been changed to include Redstone Reception Coils to suggest RF compatibility. There is also many other recipe changes for balance and to fit the theme of "magic is forbidden".
+Recipe changes have been made to integrate the mods. Item teleportation recipes will require AE Quantum Entangled Singularities.  There are also many other recipe changes for balance and to fit the theme of "magic is forbidden".
